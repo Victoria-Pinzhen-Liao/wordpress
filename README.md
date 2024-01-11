@@ -70,8 +70,19 @@ table td {
     display: none; /* Hide comments link in posts */
 }
 
+
+
 /* Hide entry footer */
 .entry-footer {
     display: none; /* Hide entry footer in posts */
 }
+
+a {
+    color: #a3c1ad; /* Sets the hyperlink color to Cambridge Blue */
+}
+
+a:hover {
+    color: #88a397; /* Optional: slightly darker shade of Cambridge Blue for hover effect */
+}
+
 ```
