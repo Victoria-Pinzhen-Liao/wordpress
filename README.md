@@ -77,8 +77,24 @@ table td {
     display: none; /* Hide entry footer in posts */
 }
 
+
+/* Hide nav next / pre */
+.nav-single {
+    display: none; 
+}
+
+/* Hide post date */
+.entry-meta {
+    display: none; 
+}
+
+/* Hide nav  */
+.nav-menu {
+    display: none;  
+}
+
 a {
-    color: #a3c1ad; /* Sets the hyperlink color to Cambridge Blue */
+    color: #648770; /* Sets the hyperlink color to Cambridge Blue */
 }
 
 a:hover {
