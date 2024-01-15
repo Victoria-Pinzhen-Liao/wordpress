@@ -93,6 +93,11 @@ table td {
     display: none;  
 }
 
+/* Hide element caption  */
+.wp-element-caption {
+    display: none;  
+}
+
 a {
     color: #648770; /* Sets the hyperlink color to Cambridge Blue */
 }
@@ -100,5 +105,6 @@ a {
 a:hover {
     color: #88a397; /* Optional: slightly darker shade of Cambridge Blue for hover effect */
 }
+
 
 ```
